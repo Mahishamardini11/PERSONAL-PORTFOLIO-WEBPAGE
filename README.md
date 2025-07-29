@@ -43,3 +43,5 @@ Application Screenshot
 
 <img width="1897" height="911" alt="Image" src="https://github.com/user-attachments/assets/eb574787-0199-4273-b1d5-d31d710d5b4a" />
 
+<img width="1891" height="897" alt="Image" src="https://github.com/user-attachments/assets/f838428d-24b7-407e-9df3-17c5c8d527ae" />
+
