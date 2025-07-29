@@ -41,7 +41,5 @@ CSS3 – For styling, animations, and responsive layout
 
 Application Screenshot
 
-<img width="1897" height="911" alt="Image" src="https://github.com/user-attachments/assets/f9e37ff5-9c42-4f38-8da1-9b315b5570b7" />
-
-<img width="1891" height="897" alt="Image" src="https://github.com/user-attachments/assets/25338389-1fd4-4608-a4df-9bfbd2e43cc1" />
+<img width="1897" height="911" alt="Image" src="https://github.com/user-attachments/assets/eb574787-0199-4273-b1d5-d31d710d5b4a" />
 
